@@ -43,7 +43,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaniBandara&layout=compact&theme=vision-friendly-dark)](https://github.com/HarshaniBandara/github-readme-stats)
 
-
 </p>
 
 ---
