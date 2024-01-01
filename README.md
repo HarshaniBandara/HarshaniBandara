@@ -1,22 +1,20 @@
 <h1 align="center">
     Hi there 👋, I'm Harshani Bandara
 </h1>
-<p align="center">
-    <a href="https://www.linkedin.com/in/harshani-bandara-051307210/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
-    </a>
-    <a href="https://www.linkedin.com/in/harshani-bandara-051307210/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="20"/>
-    </a>
-    <a href="https://www.linkedin.com/in/harshani-bandara-051307210/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
-    </a>
-    
-    
-   
-</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/harshani-bandara/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://harshani-bandara-portfolio.vercel.app/">
+    <img src = "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
----
+
+## About Me
+I am a hardworking and ambitious individual passionate about software engineering. 
+Eager to immerse myself in the dynamic realm of software development, 
+I am actively seeking opportunities to gain hands-on experience and evolve into a qualified industry professional. 
 
 <h3 align="center">
     ⚡ Technologies & Tools
@@ -42,7 +40,7 @@
 [![HarshaniBandara's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaniBandara&theme=vision-friendly-dark)](https://github.com/HarshaniBandara/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaniBandara&layout=compact&theme=vision-friendly-dark)](https://github.com/HarshaniBandara/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshaniBandara)](https://git.io/streak-stats)
 </p>
 
 ---
