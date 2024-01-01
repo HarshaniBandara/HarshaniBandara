@@ -2,6 +2,10 @@
     Hi there 👋, I'm Harshani Bandara
 </h1>
 
+<div id="header" align="center">
+  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="100"/>
+</div>
+
 ![GitHub followers](https://img.shields.io/github/followers/HarshaniBandara?label=Followers&logo=GitHub)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harshani-bandara/">
